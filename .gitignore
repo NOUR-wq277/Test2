@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model files
+*.h5
+*.pth
+*.bin
+*.pt
+
+# Streamlit cache
+.streamlit/
+
+# Datasets or temp files
+data/
+tmp/
+*.csv
+*.json
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
